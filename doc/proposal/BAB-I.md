@@ -21,7 +21,7 @@ Berdasarkan latar belakang diatas, maka dapat disimpulkan perumusan masalah yait
 3. Pelanggan sulit untuk mendapatkan informasi produk yang dijual, karena ketersediaan barangnya tidak jelas
 4. Proses transaksi pembayaran yang masih manual, karena pelanggan harus mengunjungi toko untuk melakukan transaksi pembayaran.
 
-1. 3 **Tujuan**
+**1. 3 **Tujuan**
 
 Berdasarkan rumusan masalah diatas, maka tujuan dari pembuatan aplikasi ini yaitu:
 
@@ -30,7 +30,7 @@ Berdasarkan rumusan masalah diatas, maka tujuan dari pembuatan aplikasi ini yait
 3. Memudahkan pelanggan dalam memperoleh informasi mengenai profil dan ketersediaan barang yang dijual.
 4. Memberikan kemudahan transaksi kepada pelanggan dengan lebih efisien dan mudah dilakukan dimana saja dan kapan saja.
 
-1. 4 **Ruang Lingkup**
+**1. 4 **Ruang Lingkup**
 
 Agar penelitian berjalan dengan baik dan terarah, maka harus ada batasan masalah dalam ruang lingkup penelitian. Adapun pembatasan masalah penelitian ini yaitu:
 
@@ -39,7 +39,7 @@ Agar penelitian berjalan dengan baik dan terarah, maka harus ada batasan masalah
 3. Dalam merancang aplikasi _E-commerce_ menggunakan bahasa pemrograman PHP dan menggunakan _database MySQL_, dengan _editor Adobe Dreamweaver CS6_.
 4. _E-commerce_ yang dibangun merupakan jenis _Business to Customers_.
 
-1. 5 **Sistematika Penulisan**
+**1. 5 **Sistematika Penulisan**
 
 Sistematika penulisan ini disusun untuk memberikan gambaran umum tentang penelitian yang dijalankan. Sistematika penulisan penelitian ini adalah sebagai berikut:
 
