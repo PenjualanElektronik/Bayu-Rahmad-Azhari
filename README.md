@@ -1,6 +1,6 @@
 <h1 align="center">Pengembangan Aplikasi Penjualan Elektronik CV. Surya Kencana Menggunakan Framework Code Igniter Sub Modul Pemesanan Barang</h1>
 <p align ="center">
-<img src="img/logo poltekpos.png" width="100px">
+<img src="img/logo poltekpos.png" width="200px">
 </p>
 This is my project 2 repository for educational purposes
 
